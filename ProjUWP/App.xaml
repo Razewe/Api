@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="ProjUWP.App"
+    xmlns=""
+    xmlns:x="
+    xmlns:local="using:ProjUWP">
+
+</Application>
